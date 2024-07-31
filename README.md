@@ -16,7 +16,10 @@ bun dev
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
-create `.env.local`
+create `.env.local` and add this code
+```
+AUTH_SECRET="T9jArDdRyw6iRDHxiHb2zJwCd69DaHdOO486mx1SLs0="
+```
 
 You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
 
